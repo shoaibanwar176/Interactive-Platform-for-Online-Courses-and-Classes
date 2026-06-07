@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Platform for Online Courses and Classes",
+  "description": "A production-ready Learning Management System (LMS) with Student, Teacher, and Admin roles including course building, assignments, AI tutoring, and an analytical dashboard.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
